@@ -390,6 +390,7 @@ The following methods may be called to generate standard warning messages:
 | `unsigned_accessibility`           | Users will need to re-enable the app on each update in *System Preferences → Security & Privacy → Privacy* as it is unsigned.
 | `license "web_page"`               | Users may find the software's usage license at `web_page`.
 | `free_license "web_page"`          | Users may obtain an official license to use the software at `web_page`.
+[CONTRIBUTING.md](https://github.com/Homebrew/brew/files/10618675/CONTRIBUTING.md)
 
 Example:
 
